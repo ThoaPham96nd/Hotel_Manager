@@ -1,6 +1,7 @@
 # Hotel_Manager
 # use case
-![Uploading Use case (1).png…]()
+![use case 1](https://user-images.githubusercontent.com/32561357/32472173-da55e072-c393-11e7-8537-e88c81c3b304.png)
+
 
 # Goal 
 Mục đích để quản lí khách sạn một cách chính xác , nhanh chóng , thuận tiện nhất
